@@ -69,3 +69,17 @@ The ads data consists of 26 variables that can be used as predictors. Here's an 
 
 You need to use these features from the ads data to predict whether a listing will receive at least three contacts in the first 15 days.
 
+
+**The results obtained in our validation showed a performance of 96.35%, while in the competition, we achieved 96.23%. **
+
+Regarding the distribution of time dedicated to each stage of the process, it could be described as follows:
+
+**Exploratory analysis and creating graphs: **25% of the time was spent on exploring and visualizing the data to better understand its structure and relationships.
+
+**Variable selection and feature engineering: **The most extensive stage was variable selection and creating new features, occupying 50% of the time. This includes data preparation and building relevant features to improve the model's performance.
+
+**Model validation system:** 10% of the time was dedicated to establishing a model validation system to assess the model's performance, ensuring it is robust and accurate.
+
+**Learning algorithms and hyperparameter optimization:** Finally, 15% of the time was used to implement learning algorithms and fine-tune hyperparameters to enhance the model's effectiveness.
+
+These proportions reflect a balanced and efficient working strategy throughout the model development process.
