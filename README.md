@@ -70,7 +70,7 @@ The ads data consists of 26 variables that can be used as predictors. Here's an 
 **You need to use these features from the ads data to predict whether a listing will receive at least three contacts in the first 15 days!.**
 
 
-**The results obtained in our validation showed a performance of 96.35%, while in the competition, we achieved 96.23%.**
+## The results obtained in our validation showed a performance of 96.35%, while in the competition, we achieved 96.23%.
 
 Regarding the distribution of time dedicated to each stage of the process, it could be described as follows:
 
