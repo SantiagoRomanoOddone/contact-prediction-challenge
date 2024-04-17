@@ -18,7 +18,8 @@ To build your predictive model, you have access to several datasets:
 
 ## The results obtained in our validation showed a performance of 96.35%, while in the [competition](https://www.kaggle.com/competitions/contact-prediction-challenge-2023/overview), we achieved 96.23%.
 
-Regarding the distribution of time dedicated to each stage of the process, it could be described as follows:
+
+## Regarding the distribution of time dedicated to each stage of the process, it could be described as follows:
 
 **Exploratory analysis and creating graphs:** 25% of the time was spent on exploring and visualizing the data to better understand its structure and relationships.
 
