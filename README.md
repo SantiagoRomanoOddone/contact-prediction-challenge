@@ -12,60 +12,6 @@ To build your predictive model, you have access to several datasets:
 
 **Sample Submission (1 file):** This is an example of how your submission should be structured for Kaggle's platform. It should have two columns: ad_id (listing IDs for your predictions) and contacts (the predicted probability that a listing will receive at least three contacts in the first 15 days).
 
-The ads data consists of 26 variables that can be used as predictors. Here's an overview of these variables:
-
-**ad_id:** Listing ID.
-
-**operation:** Purpose of the listing (e.g., sale, rent, development).
-
-**place_l1:** Country.
-
-**place_l2:** Province.
-
-**place_l3:** Neighborhood.
-
-**place_l4:** More detailed location information.
-
-**place_l5:** Even more detailed location information.
-
-**place_l6:** Further detailed location information.
-
-**lat:** Latitude of the property.
-
-**lon:** Longitude of the property.
-
-**price:** Published price.
-
-**currency_id:** Currency of the published price.
-
-**price_usd:** Price in US dollars.
-
-**rooms:** Number of rooms (optional).
-
-**bedrooms:** Number of bedrooms (optional).
-
-**bathrooms:** Number of bathrooms (optional).
-
-**surface_total:** Total square meters of the property.
-
-**surface_covered:** Covered square meters of the property.
-
-**title:** Listing title.
-
-**description:** Listing description.
-
-**property_type:** Property type (e.g., apartment, house).
-
-**created_on:** Publication date.
-
-**development_name:** Name of the real estate development (if applicable).
-
-**current_state:** Condition of the real estate development.
-
-**short_description:** Brief listing description.
-
-**property_is_development:** Indicates whether the property belongs to a real estate development.
-
 
 **You need to use these features from the ads data to predict whether a listing will receive at least three contacts in the first 15 days!.**
 
